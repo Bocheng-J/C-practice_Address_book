@@ -1,4 +1,4 @@
-# C-practice_Address_book
+# C++-practice_Address_book
 a small C++ practice program, to build an address book.
 
 In this Addressbook, we have 6 functions:
